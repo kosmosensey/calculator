@@ -9,6 +9,6 @@ public interface CalculatorServesInterface {
 
     String multiply(int num1, int num2);
 
-    String divide(int num1, int num2);
+    String divide(double num1, double num2);
 
 }
